@@ -5,11 +5,13 @@ Home: https://github.com/matthewwardrop/interface_meta
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/interface_meta-feedstock/blob/master/LICENSE.txt)
 
 Summary: `interface_meta` provides a convenient way to expose an extensible API with enforced method signatures and consistent documentation.
 
+Development: https://github.com/matthewwardrop/interface_meta
 
+Documentation: https://github.com/matthewwardrop/interface_meta
 
 Current build status
 ====================

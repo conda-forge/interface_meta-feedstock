@@ -1,5 +1,5 @@
 {% set name = "interface_meta" %}
-{% set version = "1.2.1" %}
+{% set version = "1.2.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: f7c6b2237fd613ae9b63c41a6759d50a78e8bca8b83c24c643eb76ede1c8183f
+  sha256: 917f4b9bac4c11662854eb6e849d9d751454d37276d33728f278a5bd843a940f
 
 build:
   number: 0
