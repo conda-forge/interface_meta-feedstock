@@ -1,11 +1,11 @@
-About interface_meta
-====================
+About interface_meta-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/interface_meta-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/matthewwardrop/interface_meta
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/interface_meta-feedstock/blob/main/LICENSE.txt)
 
 Summary: `interface_meta` provides a convenient way to expose an extensible API with enforced method signatures and consistent documentation.
 
@@ -99,7 +99,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
